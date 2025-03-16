@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple">#DAB1DA</color>
+    <color name="grey">#D3D3D3</color>
+    <color name="blue">#ADD8E6</color>
+    <color name="email_blue">#0000EE</color>
+    <color name="summary_back">#D0EBFF</color>
+    <color name="edu_back">#E0E0E0</color>
+
+</resources>
